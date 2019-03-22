@@ -1,6 +1,5 @@
 import json
 import difflib
-from difflib import SequenceMatcher
 from difflib import get_close_matches
 
 data=json.load(open("076 data.json"))
